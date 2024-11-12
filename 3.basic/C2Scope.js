@@ -47,7 +47,7 @@
     return num+1;
  }
  
-
+// its give error
  addTwo(5)
  const addTwo = function(num){
     return num+2
